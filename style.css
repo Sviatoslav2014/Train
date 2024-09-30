@@ -1,0 +1,121 @@
+header{
+    background-color:lightblue;
+}
+header h1{
+text-align: center;
+font-size: 60px;
+color: blue;
+background-color:yellow  ;
+border: 5px solid blue;
+border-radius: 15px;
+font-family: cursive;
+}
+header a{
+color: blue;
+font-size: 20px;
+text-decoration: none;
+background-color: yellow;
+border: 3px solid blue;
+border-radius: 10px;
+padding: 3px;
+margin: 5px;
+font-family: cursive;
+}
+header img{
+    border:5px solid blue;
+border-radius: 10px;
+text-align: center;
+width: 90px;
+height: 90px;
+}
+.A1{
+    background-color: orange;
+}
+.A2{
+    background-color: greenyellow;
+}
+.A3{
+    background-color: rgb(9, 240, 220);
+}
+main{
+    background-color: rgb(255, 255, 67);
+}
+main img{
+    border:5px solid blue;
+    border-radius: 10px;
+    width: 255px;
+    height: 200px;
+}
+main h1{
+    text-align: center;
+    font-size: 43px;
+    font-family:cursive;
+    border: 7px solid lightblue;
+    border-radius: 15px;
+}
+.h1{
+    color: red;
+    border: 7px solid red;
+}
+.h2{
+    color: rgb(67, 187, 11);
+    border: 7px solid rgb(67, 187, 11);
+}
+.h3{
+    color: rgb(255, 115, 0);
+    border: 7px solid rgb(255, 115, 0) ;
+}
+.h4{
+    color: rgb(0, 89, 255);
+    border: 7px solid rgb(0, 89, 255);
+}
+.h5{
+    color: rgb(0, 247, 255);
+    border: 7px solid rgb(0, 247, 255);
+}
+.h6{
+    color:rgba(131, 1, 238, 0.39);
+    border: 7px solid rgba(131, 1, 238, 0.39);
+}
+.h7{
+    color: blue;
+    border: 7px solid blue;
+}
+.h8{
+    color: rgb(247, 183, 5);
+    border: 7px solid rgb(247, 183, 5);
+}
+.h9{
+    color: rgb(2, 117, 2);
+    border: 7px solid rgb(2, 117, 2);
+}
+.h10{
+    color: rgba(255, 0, 0, 0.678);
+    border: 7px solid rgba(255, 0, 0, 0.678);
+}
+main p{
+    font-size: 20px;
+    color:blue;
+    font-family: cursive;
+}
+main table{
+    border:3px solid  blue;
+    border-collapse: collapse;
+    font-size: 25px;
+    font-family: cursive;
+    background-color: rgb(207, 247, 250) ;
+}
+main tr{
+    border:3px solid blue;
+}
+main td{
+    border:3px solid blue;
+}
+footer{
+    background-color: lightblue;
+}
+footer img{
+    border: 3px solid lightgreen;
+    width: 60px;
+    height: 60px;
+}
